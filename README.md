@@ -72,7 +72,7 @@ python calculator.py
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/05277d6f-f4e4-4bf6-9033-8151ca3f4f87" />
 
 # 📌 Future Improvements
 
