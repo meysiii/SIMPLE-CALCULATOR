@@ -62,7 +62,7 @@ Result: 20.0
 
 Clone this repository:
 
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/meysiii/SIMPLE-CALCULATOR
 cd simple-calculator
 
 
